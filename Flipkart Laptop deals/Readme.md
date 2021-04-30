@@ -1,1 +1,3 @@
-Adding new columns for RAM,etc and original price.
+### Pending Task
+
+To add new columns for RAM,etc and original price.
